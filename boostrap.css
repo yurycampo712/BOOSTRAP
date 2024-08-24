@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+}
+.card{
+    background-color: rgb(188, 188, 248);
+    display: flex;
+    display: inline-flex;
+    margin: 5%;
+}
